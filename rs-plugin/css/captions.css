@@ -1,0 +1,60 @@
+.tp-caption.big_white{
+	position: absolute; 
+	color: #fff; 
+	text-shadow: none; 
+	font-weight: bold; 
+	font-size: 26px; 
+	line-height: 28px; 
+	padding: 10px 20px; 
+	margin: 0px; 
+	background-color:#C0392B;					
+}
+.tp-caption.big_white_line{
+	position: absolute; 
+	color: #fff; 
+	text-shadow: none; 
+	font-weight: bold; 
+	font-size: 26px; 
+	line-height: 28px; 
+	padding: 10px 0;
+	border-top: 1px solid #fff; 
+	border-bottom: 1px solid #fff; 
+	margin: 0px; 
+	background-color:transparent;					
+}
+.tp-caption.big_black_line{
+	position: absolute; 
+	color: #232323; 
+	text-shadow: none; 
+	font-weight: bold; 
+	font-size: 26px; 
+	line-height: 28px; 
+	padding: 10px 0;
+	border-top: 1px solid #232323; 
+	border-bottom: 1px solid #232323; 
+	margin: 0px; 
+	background-color:transparent;					
+}
+.tp-caption.boxshadow{
+	-moz-box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.5);
+	-webkit-box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.5);
+	box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.5);
+}
+.tp-caption.text{
+	color: #232323; 
+	background: #fff;
+	padding:10px 20px;
+	text-shadow: none;		
+}
+.tp-caption.text_white{
+	color: #fff; 
+	padding:0;
+	text-shadow: none;		
+}												
+.tp-caption.text_black{
+	color: #000; 
+	text-shadow: none;		
+}	
+.tp-caption.noshadow {
+	text-shadow: none;		
+}	
